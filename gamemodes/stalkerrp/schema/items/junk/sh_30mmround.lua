@@ -1,0 +1,9 @@
+ITEM.name = "30mm HE Round"
+ITEM.model = "models/illusion/eftcontainers/30mmround.mdl"
+ITEM.description = "An old, Soviet munition leftover from the Cold-War. Still utilized today by the Ukrainian Military. Many often litter the Zone in old stockpiles and abandoned Military Vehicles."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 10000
+ITEM.width = 1
+ITEM.height = 2
+ITEM.weight = 0.01

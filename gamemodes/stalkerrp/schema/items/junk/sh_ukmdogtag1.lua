@@ -1,0 +1,9 @@
+ITEM.name = "Lost UKM Dogtags"
+ITEM.model = "models/mosi/fallout4/props/junk/holotag.mdl"
+ITEM.description = "Assortment of UKM dogtags of low-rank soldiers, identifying them as deceased and lost to the zone. Returning them could be worth something."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 500
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 0.1

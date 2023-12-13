@@ -1,0 +1,9 @@
+ITEM.name = "AIR-1 Spray"
+ITEM.model = "models/kek1ch/item_spray.mdl"
+ITEM.description = "An aeresol spray, created from a nearly lost artifact recipe. Used to spray the otherwise mundane soviet armor parts used by Clear Sky to give them their distinctive anomalous protection capabilities."
+ITEM.category = "Parts"
+ITEM.flag = "A"
+ITEM.price = 4000
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 1

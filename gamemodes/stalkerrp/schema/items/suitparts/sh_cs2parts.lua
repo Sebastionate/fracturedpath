@@ -1,0 +1,9 @@
+ITEM.name = "Soviet Mil-Gear (CS-2)"
+ITEM.model = "models/kek1ch/outfit_waste_light.mdl"
+ITEM.description = "Parts of outdated soviet protective equipment, a surplus helmet and flak vest."
+ITEM.category = "Parts"
+ITEM.flag = "A"
+ITEM.price = 13000
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 1

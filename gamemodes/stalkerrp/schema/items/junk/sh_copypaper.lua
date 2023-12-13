@@ -1,0 +1,10 @@
+ITEM.name = "Aged Copy Paper"
+ITEM.model = "models/illusion/eftcontainers/copypaper.mdl"
+ITEM.description = "A hefty stack of aged paper."
+ITEM.longdesc = "A package of aged copy-paper. Usually condoned as utterly useless, though shady entities and figures deem it of at least some value due to its material and genunity when it comes to its origin. Supposedly good for counterfitting documents of its time-period."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 300
+ITEM.width = 2
+ITEM.height = 1
+ITEM.weight = 0.2

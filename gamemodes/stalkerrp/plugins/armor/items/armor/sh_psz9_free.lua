@@ -1,0 +1,35 @@
+ITEM.name = "Sentinel of Freedom" 
+ITEM.model = "models/kek1ch/stalker_outfit.mdl"
+ITEM.replacements = "models/nasca/stalker/male_psz9d_free.mdl"
+ITEM.description= "A PSZ-9 suit used by Freedom." 
+ITEM.longdesc = "This PSZ-9 suit is often favored by Freedom patrols in areas of the Zone controlled by the faction. It is roughly comparable to the suits used by many stalkers, along with those of their rivals in Duty. It boasts decent protection against firearms and anomalies, but sacrifices the mobility of the Wind of Freedom favored by some of Freedom's other members.\n\nBallistic Protection:\nTorso: IIIA\nLimbs: IIA\nWeight: 1"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.price = 36000
+ITEM.flag = "3"
+ITEM.br = 0.2
+ITEM.fbr = 7
+ITEM.ar = 0.2
+ITEM.far = 3
+ITEM.isGasmask = true
+ITEM.isArmor = true
+ITEM.overlayPath = "vgui/overlays/hud_gas"
+ITEM.img = Material("vgui/hud/eo20.png")
+ITEM.noBusiness = true
+ITEM.artifactcontainers = {"3"}
+ITEM.weight = 8
+ITEM.maxArmor = 10
+ITEM.res = {
+	["Bullet"] = 0.3,
+	["Blast"] = 0.3,
+	["Fall"] = 0.3,
+	["Burn"] = 0.4,
+	["Radiation"] = 0.5,
+	["Chemical"] = 0.5,
+	["Shock"] = 0.4,
+	["Psi"] = 0,
+}
+
+ITEM.newSkin = 0
+ITEM.bodygroup = {0}
+ITEM.bodygroupsub = {0}

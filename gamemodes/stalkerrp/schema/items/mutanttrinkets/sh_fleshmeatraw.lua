@@ -1,0 +1,11 @@
+ITEM.name = "Raw Flesh Meat"
+ITEM.model = "models/kek1ch/meat_flesh.mdl"
+ITEM.description = "Raw meat cut from a Flesh."
+ITEM.longdesc = "A bit of raw Flesh meat. Must be cooked before being eaten."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 300
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 1.5

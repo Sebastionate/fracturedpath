@@ -1,0 +1,20 @@
+ITEM.name = "Wrenched"
+ITEM.model ="models/nasca/etherealsrp_artifacts/wrenched.mdl"
+ITEM.description = "Bizarre, whalelike artifact."
+ITEM.longdesc = "A strangely shaped artifact resulting from gravitational anomalies, this artifact acts as a sponge absorbing radioactive particles both from the environment and the body of its user.\n\n+3 Radiation Protection\n-1 Impact"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 39000
+ITEM.flag = "A"
+ITEM.isArtefact = true
+ITEM.weight = 2.3
+ITEM.res = {
+	["Fall"] = -0.10,
+	["Blast"] = -0.10,
+	["Bullet"] = -0.10,
+	["Shock"] = 0.00,
+	["Burn"] = 0.00,
+	["Radiation"] = 0.30,
+	["Chemical"] = 0.00,
+	["Psi"] = 0.00,
+}

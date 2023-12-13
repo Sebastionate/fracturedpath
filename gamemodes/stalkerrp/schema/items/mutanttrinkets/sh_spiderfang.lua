@@ -1,0 +1,11 @@
+ITEM.name = "Spider Fang"
+ITEM.model ="models/mosi/fallout4/props/junk/bloodbug_proboscis.mdl"
+ITEM.description = "Fangs from a giant Mutated Spider."
+ITEM.longdesc = "A long, sharp fang belonging to a Spider. The spiders of the Zone are scarcely big, but the deeper one goes the stranger things tend to become. Spiders are beasts of prey, carnivorous and cannibalistic, they breed often and for each new batch, the mother is devoured whole within hours."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 1200
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 0.7

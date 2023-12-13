@@ -1,0 +1,9 @@
+ITEM.name = "Ecologist Supply Drop (SSP-99M)"
+ITEM.model = "models/kek1ch/case.mdl"
+ITEM.description = "A case with government markings, used for installing extra armor on an SSP suit."
+ITEM.category = "Parts"
+ITEM.flag = "A"
+ITEM.price = 18000
+ITEM.width = 2
+ITEM.height = 2
+ITEM.weight = 1

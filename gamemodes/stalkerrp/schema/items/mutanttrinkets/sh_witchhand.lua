@@ -1,0 +1,11 @@
+ITEM.name = "Witch's Hand"
+ITEM.model ="models/handzomb.mdl"
+ITEM.description = "A slender, long Zombie hand."
+ITEM.longdesc = "A female zombie’s slender, crooked hand. Witches’ psychic abilities seemingly come from their hands instead of their brains, bizarrely enough. Scientists all over the Zone will pay decent sums of money to any brave enough to go toe-to-toe against a Witch, and bring back their severed hands."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 1000
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 1.2

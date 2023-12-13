@@ -1,0 +1,11 @@
+ITEM.name = "Raw Boar Meat"
+ITEM.model = "models/kek1ch/meat_boar.mdl"
+ITEM.description = "Raw meat cut from a Boar."
+ITEM.longdesc = "A bit of raw Boar meat. Must be cooked before being eaten."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 30
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 1.5

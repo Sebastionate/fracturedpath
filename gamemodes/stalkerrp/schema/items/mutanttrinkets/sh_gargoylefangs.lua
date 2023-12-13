@@ -1,0 +1,11 @@
+ITEM.name = "Vampire's Fangs"
+ITEM.model ="models/kek1ch/item_psevdodog_fang.mdl"
+ITEM.description = "Black Fangs of a very Deadly Mutant."
+ITEM.longdesc = "A Gargoyle’s blood-coated teeth, they are as sharp as knives and as black as mold. Gargoyles patrol the decrepit skylines of Pripyat with a keen eye for idiot stalkers seeking to make a quick buck at the cost of their own lives, they make prey of anyone who wanders alone, but will attack anyone if they feel threatened."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 9000
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 1.5

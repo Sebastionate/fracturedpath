@@ -1,0 +1,9 @@
+ITEM.name = "Exotic Materials"
+ITEM.model = "models/kek1ch/armor_repair_pro.mdl"
+ITEM.description = "A few ceramic-like plates used in certain Monolith armors. Monolith armors remain highly protective against radiation and anomalies despite having very little in terms of protective layers in their suits. it's suggested that these effects are somehow 'pressed' into plates like these, but how they're really made is simply a mystery."
+ITEM.category = "Parts"
+ITEM.flag = "A"
+ITEM.price = 40000
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 1

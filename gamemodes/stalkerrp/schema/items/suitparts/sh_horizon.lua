@@ -1,0 +1,9 @@
+ITEM.name = "Horizon Coating"
+ITEM.model = "models/kek1ch/armor_repair_pro.mdl"
+ITEM.description = "A proprietary mixture of melted artifacts used by Freedom. It is applied to certain suits like a paste that provides extra anomaly resistance and lighter weight when dry, but also weakens armor plates."
+ITEM.category = "Parts"
+ITEM.flag = "A"
+ITEM.price = 4000
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 1

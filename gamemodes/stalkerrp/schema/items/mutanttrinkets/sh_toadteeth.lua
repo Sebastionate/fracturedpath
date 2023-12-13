@@ -1,0 +1,11 @@
+ITEM.name = "Devil Toad's Teeth"
+ITEM.model ="models/kek1ch/item_psevdodog_fang.mdl"
+ITEM.description = "The Teeth of a Mutated Toad."
+ITEM.longdesc = "A Devil Toad’s small boney teeth, they have no value among scientists and most stalkers would prefer to stay away from this mutated species of toad overall, but those in the know enjoy using them to brew teas or bone broths because of their bitter, metallic taste."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 500
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 0.1

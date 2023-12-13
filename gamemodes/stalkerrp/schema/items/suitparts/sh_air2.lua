@@ -1,0 +1,9 @@
+ITEM.name = "AIR-2 Spray"
+ITEM.model = "models/kek1ch/item_spray.mdl"
+ITEM.description = "An aeresol spray, created from a nearly lost artifact recipe using rare rocks. An improved version just barely pushed into field tests before the faction's unfortunate end, it confers even better anomalous protection capability while also applying properly to reinforced armor plates."
+ITEM.category = "Parts"
+ITEM.flag = "A"
+ITEM.price = 4000
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 1

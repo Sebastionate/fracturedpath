@@ -1,0 +1,11 @@
+ITEM.name = "Pseudo-Boar Tusks"
+ITEM.model ="models/monster/taranklik.mdl"
+ITEM.description = "The Tusks of a Large Boar"
+ITEM.longdesc = "An elongated tusk that belonged to an oversized boar. Boars such as these are few and far between, they are unofficially referred to as Pseudo-Boars by mocking stalkers. Pseudo-Boars lurk the Zone’s flatlands, keeping track of and marking their territories almost daily. Instead of keeping themselves a single resting place, they enjoy long naps all over their territories."
+ITEM.width = 2
+ITEM.height = 1
+ITEM.price = 5000
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 1.2

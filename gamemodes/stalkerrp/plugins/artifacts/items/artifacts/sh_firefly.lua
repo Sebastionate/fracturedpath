@@ -1,0 +1,10 @@
+ITEM.name = "Firefly"
+ITEM.model ="models/nasca/etherealsrp_artifacts/firefly.mdl"
+ITEM.description = "Green and beautiful artifact."
+ITEM.longdesc = "Interacting with energy fields unknown to science, this artifact considerably speeds up the regeneration of tissue and organs and normalizes metabolic processes. It is rumored to be able to bring Stalkers back from the dead, though this remains unclear.\n\nT2 Rad\n-Decreases wound state per round."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 1000000000
+ITEM.flag = "A"
+ITEM.isArtefact = true
+ITEM.weight = 4

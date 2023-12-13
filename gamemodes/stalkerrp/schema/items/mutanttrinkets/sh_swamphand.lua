@@ -1,0 +1,11 @@
+ITEM.name = "Swampman's Hand"
+ITEM.model ="models/handburer.mdl"
+ITEM.description = "The hand of a Swamp Mutant."
+ITEM.longdesc = "A thick, severed hand with extremities burnt at the tip. Swampmen use their strong hands to move and attack, they commonly absorb a lot of radioactive and anomalous energy as they tread the ground, and thus are valued by lower-end scientists."
+ITEM.width = 2
+ITEM.height = 1
+ITEM.price = 650
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 2

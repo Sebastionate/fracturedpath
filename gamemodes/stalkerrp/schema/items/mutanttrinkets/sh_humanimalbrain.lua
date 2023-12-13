@@ -1,0 +1,11 @@
+ITEM.name = "Humanimal Brain"
+ITEM.model ="models/gibs/humans/brain_gib.mdl"
+ITEM.description = "A throbbing, pulsing brain."
+ITEM.longdesc = "A viscous, pulsating brain. Humanimals are highly intelligent creatures and this fact is reflected in the shape of their brain, according to researchers at least. Although it was removed from its body, the brain continues to shiver and pulse, almost like its own lifeform. Stalkers in the North of the Zone suggest that Humanimals were once peaceful, but years of war waged against the other intelligent mutants has put them on edge."
+ITEM.width = 2
+ITEM.height = 2
+ITEM.price = 35000
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 3

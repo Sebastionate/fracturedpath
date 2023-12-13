@@ -1,0 +1,11 @@
+ITEM.name = "Vampire's Claws"
+ITEM.model ="models/monster/mimikriahand.mdl"
+ITEM.description = "Black Fangs of a very Deadly Mutant."
+ITEM.longdesc = "A Gargoyle’s sharpened wingtips, its silver-colored claws will reflect sunlight after being thoroughly cleaned. Gargoyles are vaguely man-shaped and as such, many stalkers believe them to be the altered forms of the desolate Pripyat’s boldest explorers who have seen something unknowable, and thus, in their own way, are halting the progress of any who might desire to make the same mistake."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 7500
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 2

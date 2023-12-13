@@ -1,0 +1,9 @@
+ITEM.name = "Broken Smart Phone"
+ITEM.model = "models/illusion/eftcontainers/gphonex.mdl"
+ITEM.description = "A busted up Smartphone that won't even turn on. Still, with a few replacement parts it could be tuned up into a refurbished penny or few. A fair find, and sadly sourced from Tourist corpses usually."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 1800
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 0.6

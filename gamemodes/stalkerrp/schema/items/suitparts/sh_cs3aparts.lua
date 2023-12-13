@@ -1,0 +1,9 @@
+ITEM.name = "Clear Sky Cache (CS-3a)"
+ITEM.model = "models/kek1ch/armor_repair_pro.mdl"
+ITEM.description = "Contents of a cache left behind by the Clear Sky faction."
+ITEM.category = "Parts"
+ITEM.flag = "A"
+ITEM.price = 36000
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 1

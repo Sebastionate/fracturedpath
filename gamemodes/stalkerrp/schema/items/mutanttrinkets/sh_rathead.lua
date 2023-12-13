@@ -1,0 +1,11 @@
+ITEM.name = "Rat's Head"
+ITEM.model ="models/kek1ch/rat_head.mdl"
+ITEM.description = "The head of a decapitated, normal rat."
+ITEM.longdesc = "A severed rat head. A perfectly normal rat specimen’s severed head, absolutely worthless to everyone in the Zone, but stalker legends tell of a race of subterranean dwarves that collect rat heads and use them as currency amongst each other, though this has yet to be proven a fact."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 10
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 0.1

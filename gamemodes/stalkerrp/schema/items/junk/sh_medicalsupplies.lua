@@ -1,0 +1,10 @@
+ITEM.name = "Pile of Loose Medical Stuff"
+ITEM.model = "models/illusion/eftcontainers/medpile.mdl"
+ITEM.description = "A pile of misc medical bits."
+ITEM.longdesc = "A small handful of misc medical bits utilized to make useful kits. Valued by anyone with some Medical Experience."
+ITEM.category = "Medical"
+ITEM.flag = "1"
+ITEM.price = 500
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 0.5

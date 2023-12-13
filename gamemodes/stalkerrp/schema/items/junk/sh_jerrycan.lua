@@ -1,0 +1,9 @@
+ITEM.name = "Gasoline Can"
+ITEM.model = "models/illusion/eftcontainers/gasoline.mdl"
+ITEM.description = "A hefty, metal cannister filled with Gasoline. One of the most common resources outside of the Zone, utilized by everyone in everyday life. Unfortunately smuggling heavy fuel reserves into the Zone isn't always easy, and so its worth has been increased a bit."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 1000
+ITEM.width = 2
+ITEM.height = 3
+ITEM.weight = 18

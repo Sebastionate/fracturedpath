@@ -1,0 +1,20 @@
+ITEM.name = "Eye"
+ITEM.model ="models/nasca/etherealsrp_artifacts/eye.mdl"
+ITEM.description = "This artifact looks like an eye."
+ITEM.longdesc = "Resembling a human eye, this artifact considerably increases the body's metabolism. It is relatively rare and valuable within the Zone. Many stalkers claim that this artifact brings good fortune, though this rumor is unsubstantiated.\n\n-T3 Rad\n+5 Bleed\n+1 Impact"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 42000
+ITEM.flag = "A"
+ITEM.isArtefact = true
+ITEM.weight = 1.1
+ITEM.res = {
+	["Fall"] = 0.10,
+	["Blast"] = 0.10,
+	["Bullet"] = 0.10,
+	["Shock"] = 0.00,
+	["Burn"] = 0.00,
+	["Radiation"] = -0.30,
+	["Chemical"] = 0.00,
+	["Psi"] = 0.00,
+}

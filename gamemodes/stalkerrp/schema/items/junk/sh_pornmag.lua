@@ -1,0 +1,9 @@
+ITEM.name = "Porn Magazine"
+ITEM.model = "models/kek1ch/porn.mdl"
+ITEM.description = "Barely Legal - Edition 12"
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 250
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 0.03

@@ -1,0 +1,9 @@
+ITEM.name = "Gas Analyser"
+ITEM.model = "models/illusion/eftcontainers/gasanalyser.mdl"
+ITEM.description = "An old tool used by some of the first Liquidators in the Exclusion Zone. Utilized for testing air-qualities of rotting structures and potential sources of radiation due to a lot of waste being improperly disposed of after the Disaster."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 1500
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 18

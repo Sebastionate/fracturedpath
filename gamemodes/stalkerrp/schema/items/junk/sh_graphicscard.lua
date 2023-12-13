@@ -1,0 +1,9 @@
+ITEM.name = "Graphics Card"
+ITEM.model = "models/illusion/eftcontainers/graphicscard.mdl"
+ITEM.description = "Honestly it's pretty hard to tell how a dual-fanned GPU found its way into the Zone, maybe a Stalker set up their own little intel set-up or Ecologists left it behind in a non-military grade Computer. Whatever the case may be, it sure is valuable."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 18000
+ITEM.width = 2
+ITEM.height = 1
+ITEM.weight = 0.01

@@ -1,0 +1,36 @@
+ITEM.name = "Wind of Freedom (Female)" 
+ITEM.model = "models/kek1ch/stalker_outfit.mdl"
+ITEM.replacements = "models/nasca/stalker/female_wind_free.mdl"
+ITEM.description= "A lightweight suit used by Freedom." 
+ITEM.longdesc = "This comfortable stalker bodysuit is made by Freedom craftsmen. The suit's fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies. It is standard among members of Freedom, who enjoy its light weight and anomaly protection to move through the Zone with ease.\n\nBallistic Protection:\nTorso: II\nLimbs: IIA\nWeight: 1"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.price = 17000
+ITEM.flag = "4"
+ITEM.br = 0.1
+ITEM.fbr = 7
+ITEM.ar = 0.2
+ITEM.far = 3
+ITEM.isGasmask = true
+ITEM.isHelmet = true
+ITEM.isArmor = true
+ITEM.repairCost = ITEM.price/100*1
+ITEM.overlayPath = "vgui/overlays/hud_gas"
+ITEM.img = Material("vgui/hud/eo20.png")
+ITEM.artifactcontainers = {"2"}
+ITEM.weight = 5
+ITEM.maxArmor = 10
+ITEM.res = {
+	["Bullet"] = 0.2,
+	["Blast"] = 0.2,
+	["Fall"] = 0.2,
+	["Burn"] = 0.2,
+	["Radiation"] = 0.3,
+	["Chemical"] = 0.3,
+	["Shock"] = 0.3,
+	["Psi"] = 0,
+}
+
+ITEM.newSkin = 0
+ITEM.bodygroup = {0}
+ITEM.bodygroupsub = {0}

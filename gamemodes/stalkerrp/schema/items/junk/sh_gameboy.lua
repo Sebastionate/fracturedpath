@@ -1,0 +1,10 @@
+ITEM.name = "Handheld Game Console"
+ITEM.model = "models/illusion/eftcontainers/tetriz.mdl"
+ITEM.description = "A portable game console."
+ITEM.longdesc = "In the Zone, boredom can be a killer. Alleviate it with video games!"
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 6500
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 1

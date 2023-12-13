@@ -1,0 +1,9 @@
+ITEM.name = "Box Of Teabags"
+ITEM.model = "models/props_lab/box01a.mdl"
+ITEM.description = "A small, unmarked cardboard box with a couple bags of tea inside. Mix with clean water in a kettle, boil, allow to steep, and enjoy! Enough for four servings."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 25
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 0.25

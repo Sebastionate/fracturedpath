@@ -1,0 +1,11 @@
+ITEM.name = "Soul Material"
+ITEM.model ="models/nasca/etherealsrp_artifacts/flame.mdl"
+ITEM.description = "An ectoplasmic-like essence."
+ITEM.longdesc = "A Hardlight-like material assumed to be formed out of the Human essences absorbed into a Silvan’s stomach. There is a slim chance to harvest such a thing from a Silvan’s remains. Rumor has it that gathering enough Soul Material could bring a zombified Stalker’s soul back, reversing the process that had made them lose their minds."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 85000
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 0.01

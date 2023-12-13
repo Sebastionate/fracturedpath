@@ -1,0 +1,11 @@
+ITEM.name = "Swampman's Liver"
+ITEM.model ="models/gibs/humans/liver_gib.mdl"
+ITEM.description = "The Liver of a Swamp Mutant."
+ITEM.longdesc = "An almost alien liver, moss is growing onto it. Horrifying as that knowledge may be, many of the Stalkers who like to survive in the swamps believe Swampmen to be nothing more than mutant creatures, and thus see no qualms with feasting on their organs, which they often find delicious when paired with peppercorns."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 800
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 0.4

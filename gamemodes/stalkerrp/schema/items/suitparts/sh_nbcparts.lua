@@ -1,0 +1,9 @@
+ITEM.name = "Hazmat Gear (NBC)"
+ITEM.model = "models/kek1ch/armor_repair_pro.mdl"
+ITEM.description = "Remains of old hazmat equipment."
+ITEM.category = "Parts"
+ITEM.flag = "A"
+ITEM.price = 2000
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 1

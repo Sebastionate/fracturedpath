@@ -1,0 +1,9 @@
+ITEM.name = "Instant Coffee Tin"
+ITEM.model = "models/mosi/fallout4/props/junk/coffeetin.mdl"
+ITEM.description = "A metal tin full of instant coffee mix. Mix with clean water in a kettle, boil, and enjoy! Enough for four servings."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 25
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 0.25

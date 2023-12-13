@@ -1,0 +1,20 @@
+ITEM.name = "Soul"
+ITEM.model ="models/nasca/etherealsrp_artifacts/soul.mdl"
+ITEM.description = "Spherish, blue artifact."
+ITEM.longdesc = "A rare artifact seemingly formed of organic materials, it nonetheless has a striking appearance. It increases the body's overall recovery rate from any sort of damage through unknown means, but does not accelerate the accumulation of toxins.\n\nT2 Rad\nDecreases 1 Tier of Stagger per round.\n+3 Bleed"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 85000
+ITEM.flag = "A"
+ITEM.isArtefact = true
+ITEM.weight = 3
+ITEM.res = {
+	["Fall"] = 0.00,
+	["Blast"] = 0.00,
+	["Bullet"] = 0.00,
+	["Shock"] = 0.0,
+	["Burn"] = 0.00,
+	["Radiation"] = -0.20,
+	["Chemical"] = 0.00,
+	["Psi"] = 0.00,
+}

@@ -1,0 +1,10 @@
+ITEM.name = "Dry Fuel"
+ITEM.model = "models/illusion/eftcontainers/dryfuel.mdl"
+ITEM.description = "A fuel circular tablets."
+ITEM.longdesc = "A package of dry-fuel, valued by Soldiers and Stalkers alike for its lightweight nature and ability to burn even after getting wet. Great for establishing campfires, even during rainy weather."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 1900
+ITEM.width = 1
+ITEM.height = 1
+ITEM.weight = 0.2

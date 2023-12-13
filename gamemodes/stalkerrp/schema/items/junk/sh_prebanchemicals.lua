@@ -1,0 +1,9 @@
+ITEM.name = "Illegal Chemicals"
+ITEM.model = "models/illusion/eftcontainers/alkali.mdl"
+ITEM.description = "A bottle of old industrial Chemicals banned a good half-decade back due to Atmosphere damage and general pollution. Shadier companies and Corporations still prefer to illegally buy such fluids in bulk to cut costs, despite them no longer being produced."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 3000
+ITEM.width = 1
+ITEM.height = 2
+ITEM.weight = 0.01

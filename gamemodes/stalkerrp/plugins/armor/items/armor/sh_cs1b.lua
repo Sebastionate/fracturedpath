@@ -1,0 +1,33 @@
+ITEM.name ="CS-1b"
+ITEM.model ="models/kek1ch/cs_light_outfit.mdl"
+ITEM.replacements ="models/nasca/stalker/male_cs1b.mdl"
+ITEM.description="An alternative appearance of the CS-1 Scout Armor."
+ITEM.longdesc = "A pair of jeans, a rain jacket and a kevlar vest with lots of pouches. Another type of stalker 'uniform', made from off-the-shelf products. This one seems to have a reinforced jacket from a chemsuit.\n\nBallistic Protection:\nTorso: II\nLimbs: IIA\nWeight: 1"
+ITEM.width = 2
+ITEM.height = 1
+ITEM.price = 35000
+ITEM.flag = "1"
+ITEM.br = 0.18
+ITEM.fbr = 1
+ITEM.ar = 0.15
+ITEM.far = 1
+ITEM.isArmor = true
+ITEM.repairCost = ITEM.price/100*1
+ITEM.img = Material("vgui/hud/cs1.png")
+ITEM.artifactcontainers = {"2"}
+ITEM.weight = 5
+ITEM.maxArmor = 10
+ITEM.res = {
+	["Bullet"] = 0.2,
+	["Blast"] = 0.2,
+	["Fall"] = 0.2,
+	["Burn"] = 0.1,
+	["Radiation"] = 0.2,
+	["Chemical"] = 0.2,
+	["Shock"] = 0.2,
+	["Psi"] = 0.0,
+}
+
+ITEM.newSkin = 0
+ITEM.bodygroup = {0}
+ITEM.bodygroupsub = {0}

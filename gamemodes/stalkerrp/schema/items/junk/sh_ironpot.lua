@@ -1,0 +1,9 @@
+ITEM.name = "Iron Pot"
+ITEM.model = "models/props_c17/metalPot001a.mdl"
+ITEM.description = "A cast-iron pot used for cooking."
+ITEM.category = "junk"
+ITEM.flag = "1"
+ITEM.price = 250
+ITEM.width = 2
+ITEM.height = 2
+ITEM.weight = 2

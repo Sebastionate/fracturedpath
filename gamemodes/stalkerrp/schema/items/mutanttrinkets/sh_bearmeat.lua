@@ -1,0 +1,11 @@
+ITEM.name = "Pseudo-Bear Meat"
+ITEM.model ="models/gibs/humans/mgib_01.mdl"
+ITEM.description = "The Meat of a Mutated Bear."
+ITEM.longdesc = "A Pseudo-Bear’s grotesque flesh, it holds shards of hardened fat like armor which need to be removed before consumption. While not as sought-after as the eyes, the meat still makes for great dinners once properly cooked and cleansed, some say feasting on pseudo-bear meat will grant a small part of their power."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 1000
+ITEM.flag = "1"
+ITEM.quantity = 1
+ITEM.value = ITEM.price*1*1
+ITEM.weight = 1.5

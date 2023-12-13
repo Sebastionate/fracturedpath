@@ -1,0 +1,35 @@
+ITEM.name = "Monolith Heavy Armor"
+ITEM.model = "models/kek1ch/merc_outfit.mdl"
+ITEM.replacements = "models/nasca/stalker/male_expedition.mdl"
+ITEM.description= "A hefty set of anomalous Armor."
+ITEM.longdesc = "One of the heaviest suits of armor in the Zone, and only worn by field-commanders of Monolith Garrisons at the Heart of the Exclusion Zone. The Monolith Heavy Armor is made up of an old Police Universe, rumored to be made up of a scrapped Radsuit and some sort of Legendary Artifact that somehow reinforces its ballistic properties, and makes it lighter.\n\nBallistic Protection:\nSkull: IV\nNeck & Face: IIIA\nTorso: V\nLimbs: III+\nWeight: 3"
+ITEM.width = 2
+ITEM.height = 3
+ITEM.price = 300000
+ITEM.flag = "3"
+ITEM.br = 0.3
+ITEM.fbr = 1
+ITEM.ar = 0.2
+ITEM.far = 1
+ITEM.isGasmask = true
+ITEM.isHelmet = false
+ITEM.isArmor = true
+ITEM.overlayPath = "vgui/overlays/hud_gas"
+ITEM.img = Material("vgui/hud/eo20.png")
+ITEM.artifactcontainers = {"1"}
+ITEM.weight = 20
+ITEM.maxArmor = 20
+ITEM.res = {
+	["Bullet"] = 0.9,
+	["Blast"] = 0.9,
+	["Fall"] = 0.9,
+	["Burn"] = 0.4,
+	["Radiation"] = 0.6,
+	["Chemical"] = 0.4,
+	["Shock"] = 0.4,
+	["Psi"] = 1.0,
+}
+
+ITEM.newSkin = 3
+ITEM.bodygroup = {0}
+ITEM.bodygroupsub = {0}
